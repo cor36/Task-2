@@ -12,7 +12,7 @@
 
 body {
   font-family: 'Roboto', sans-serif;
-  line-height: 1.4;
+  line-height: 1.6;
 }
 
 .container {
@@ -69,7 +69,7 @@ body {
 }
 
 .btn:hover {
-  opacity: 0.7;
+  opacity: 0.8;
 }
 
 /* MENU STYLES */
@@ -86,7 +86,7 @@ body {
   left: 0;
   z-index: 2;
   cursor: pointer;
-  width: 50px;
+  width: 55px;
   height: 50px;
   opacity: 0;
 }
